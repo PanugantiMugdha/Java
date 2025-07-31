@@ -100,17 +100,17 @@ public class BitManipulation {
     {
         Scanner sc=new Scanner(System.in);
         //AND operator
-        // System.out.println(5&6);//4
-        // //OR operator
-        // System.out.println(5|6);//7
-        // //XOR operator
-        // System.out.println(5^6);//3
-        // //1s Complement
-        // System.out.println(~3);
-        // //Left shift
-        // System.out.println(5<<2);
-        // //Right Shift
-        // System.out.println(6>>1);
+        System.out.println(5&6);//4
+        //OR operator
+        System.out.println(5|6);//7
+        //XOR operator
+        System.out.println(5^6);//3
+        //1s Complement
+        System.out.println(~3);
+        //Left shift
+        System.out.println(5<<2);
+        //Right Shift
+        System.out.println(6>>1);
         int a=sc.nextInt();
         int n=sc.nextInt();
         // oddOrEven(n);
