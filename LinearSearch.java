@@ -1,6 +1,6 @@
 
 
-public class ArraysPartA
+public class LinearSearch
 {
     public static int linearSearch(int numbers[],int key)
     {
