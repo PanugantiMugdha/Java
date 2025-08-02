@@ -2,14 +2,6 @@
 
 public class ArraysPartA
 {
-    public static void update(int marks[],int nonchangable)
-    {
-        nonchangable=10;
-        for(int i=0;i<marks.length;i++)
-        {
-            marks[i]=marks[i]+1;
-        }
-    }
     public static int linearSearch(int numbers[],int key)
     {
         for(int i=0;i<numbers.length;i++)
